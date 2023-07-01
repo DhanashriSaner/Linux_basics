@@ -43,7 +43,7 @@ uname
 ```
 sudo
 ```
-#### 8) Kernel Name
+#### 8) Switch to root user
 **su** stands for **switch user** or **substitute user**
 **su** means to switch to a particular user
 ```
@@ -67,9 +67,52 @@ rm my_file.txt
 #### 12) Display a line of text that is passed in as an argument.
 
 ```
-touch "Hello"
+echo "Hello"
+```
+#### 13) Display a line of text that is passed in as an argument in the file.
+
+```
+echo "Hello" > my_file.txt
+```
+#### 14) To see the data inside the file.
+
+```
+cat my_file.txt
 ```
 
-.
+#### 15) vim command to create a new file
+
+```
+vim new_file.txt
+```
+
+#### 16) To save the changes and exit from vim
+**wq** stands for write & quite
+```
+:wq
+```
+#### 17) To get a full list of hidden files
+
+```
+ls -la
+```
+
+#### 18) create a file 'test' and insert the content inside file
+
+```
+touch test && echo "This is DevOps class file"
+```
+#### 19) to jump on previous directory
+
+```
+cd ..
+```
+#### 20) Create 10 files using one command
+```
+touch file{1..10}.txt
+```
+
+
+
 
 
