@@ -111,6 +111,15 @@ cd ..
 ```
 touch file{1..10}.txt
 ```
+#### 21) Move any file which starts with 'file' name into the devops folder
+```
+mv file* devops/
+```
+#### 22) To view the previously executed command
+```
+history
+```
+
 
 
 
