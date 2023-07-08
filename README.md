@@ -140,9 +140,6 @@ history
 
 ```
 
-
-# Solution
-
 1. To view what's written in a file.
     - ``` cat filename ``` 
     
@@ -177,6 +174,13 @@ history
     -  ```  cat fruits.txt ``` 
    
 ![3 5](https://user-images.githubusercontent.com/76457594/210311435-e6f8aa0c-dc0c-44a6-84e7-6e4c91e4ea87.png)
+
+
+ 
+
+
+# Solution
+
 
 
  
